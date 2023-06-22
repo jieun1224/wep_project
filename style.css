@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    margin: 100;
+    padding: auto;
+    font-family: 'Orbit', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    margin: 100;
+    padding: auto;
+    font-family: 'Orbit', sans-serif;
+    font-size: 160px;
+    color: white;
+}
+
+.border1{
+    border-style: dashed;
+    border-color: white;
+    border-width:8px
+}
+
+div{
+    font-family: 'Orbit', sans-serif;
+    font-size: 18px
+}
+
